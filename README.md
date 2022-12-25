@@ -12,7 +12,7 @@ Sources-
 - Other sounds: [Link](https://pixabay.com/)
 
 Important links-
-- Youtube: Coming Soon
+- Youtube: [Video](https://youtu.be/CLayV7308z4)
 - NextMind: [Link](https://github.com/Snapchat/NextMind)
 
 The setup icon looks like this
